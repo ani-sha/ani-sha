@@ -2,7 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/> Hey, nice to see you!</h1>
 
 
-<p>Welcome to my GitHub Profile! <br> I'm <b>Anisha</b>. I' m a Software Developer, currently living in <b>India</b>. </p>
+<p>Welcome to my GitHub Profile! <br> I am <b>Anisha</b>. I am a Full Stack Developer, currently living in <b>India</b>. </p>
 <h4>Things I code with :</h4>
 <p>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
